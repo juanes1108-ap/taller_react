@@ -13,7 +13,7 @@ export default function Estudios() {
 
       <TarjetaEstudio 
         titulo="Bachiller Académico"
-        institucion="Institución Educativa Distrital"
+        institucion="Institución Gerardo Paredes"
         anio="2025"
         enCurso={false}
       />
@@ -21,7 +21,7 @@ export default function Estudios() {
       <TarjetaEstudio 
         titulo="Técnico en Análisis y Desarrollo de Software (ADSO)"
         institucion="SENA"
-        anio="2025 - Ene 2026"
+        anio="2024 - dic 2025"
         enCurso={false}
       />
 

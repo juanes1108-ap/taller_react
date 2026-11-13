@@ -39,7 +39,7 @@ const estilos = StyleSheet.create({
   },
   enCurso: {
     backgroundColor: '#f3e8ff',
-    borderColor: '#7c3aed',
+    borderColor: '#6523d6',
   },
   cabecera: {
     flexDirection: 'row',

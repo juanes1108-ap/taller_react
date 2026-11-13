@@ -33,7 +33,7 @@ export default function Inicio() {
           textoBoton="Llamar"
           nombreIcono="call"
           colorBoton="#2563eb"
-          onPress={() => Alert.alert("Teléfono", "Llamando al +57 300 000 0000")}
+          onPress={() => Alert.alert("Teléfono", "Llamando al +57 312 345 6789...")}
         />
 
         <MiBoton 
@@ -47,7 +47,7 @@ export default function Inicio() {
           textoBoton="Repositorio Git"
           nombreIcono="logo-github"
           colorBoton="#334155"
-          onPress={() => Alert.alert("GitHub", "https://github.com/juancs1108-ap/taller_react")}
+          onPress={() => Alert.alert("GitHub", "https://github.com/juanes1108-ap/taller_react")}
         />
       </View>
     </ScrollView>

@@ -25,7 +25,7 @@ const estilos = StyleSheet.create({
   tarjeta: {
     flexDirection: 'row',
     alignItems: 'center',
-    backgroundColor: '#ffffff',
+    backgroundColor: '#e2e8f0',
     padding: 16,
     borderRadius: 12,
     marginVertical: 8,

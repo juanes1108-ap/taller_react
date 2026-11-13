@@ -19,10 +19,10 @@ export default function Hobbies() {
       />
 
       <TarjetaHobby 
-        titulo="Running y Acondicionamiento"
-        descripcionCorta="Rutinas de calentamiento y trote"
+        titulo="Amigos y Familia"
+        descripcionCorta="pasar tiempo con mis amigos y familia"
         icono={"fitness-outline" as any}
-        onPress={() => Alert.alert("Detalle de Hobby", "Práctico running y rutinas de acondicionamiento físico para mantener la disciplina y buena salud.")}
+        onPress={() => Alert.alert("Detalle de Hobby", " me gusta pasar tiempo con mis amiggos y familia")}
       />
 
       <TarjetaHobby 

@@ -12,10 +12,10 @@ export default function Hobbies() {
       </View>
 
       <TarjetaHobby 
-        titulo="Gaming Táctico y FPS"
-        descripcionCorta="Arena Breakout Mobile y gestión de loadouts"
+        titulo="Gaming Táctico"
+        descripcionCorta="Arena Breakout Mobile y codm"
         icono={"gamepad-controller-outline" as any}
-        onPress={() => Alert.alert("Detalle de Hobby", "Me encanta jugar Arena Breakout Mobile, optimizando configuraciones tácticas y rendimiento móvil.")}
+        onPress={() => Alert.alert("Detalle de Hobby", "Me encanta jugar Arena Breakout Mobile, codm y los juegos de estrategias y combate en general.")}
       />
 
       <TarjetaHobby 

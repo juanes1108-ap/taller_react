@@ -46,7 +46,7 @@ const estilos = StyleSheet.create({
   },
   descripcion: {
     fontSize: 13,
-    color: '#475569',
+    color: '#414f64',
     lineHeight: 18,
   },
 });

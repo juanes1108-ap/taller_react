@@ -16,7 +16,7 @@ export default function MiBoton({ textoBoton, nombreIcono, colorBoton, onPress }
       onPress={onPress}
       activeOpacity={0.8}
     >
-      <Ionicons name={nombreIcono} size={20} color="#fff" style={estilos.icono} />
+      <Ionicons name={nombreIcono} size={20} color="#fffffff9" style={estilos.icono} />
       <Text style={estilos.texto}>{textoBoton}</Text>
     </TouchableOpacity>
   );

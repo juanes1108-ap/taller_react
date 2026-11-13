@@ -19,10 +19,10 @@ export default function Experiencia() {
       />
 
       <TarjetaExperiencia 
-        cargo="Desarrollador de Software / POS"
-        empresa="Proyecto DogPos"
+        cargo="Desarrollador de Software / React"
+        empresa="Proyecto React Native"
         periodo="2026"
-        descripcion="Creación de interfaces y lógica de sistema punto de venta con paleta de colores personalizada y tipografía Baloo."
+        descripcion="Creación de aplicaciones moviles con React Native, integrando funcionalidades."
       />
     </ScrollView>
   );
